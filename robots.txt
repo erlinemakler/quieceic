@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eethaicae.paulsmoker.com/sitemap.xml
